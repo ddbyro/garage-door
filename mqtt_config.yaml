@@ -11,7 +11,7 @@ gpio_modules:
     cleanup: yes  # This optional boolean value sets whether the module's `cleanup()` function will be called when the software exits.
 
 digital_inputs:
-  - name: Prox_001
+  - name: Prox_001 # Door Sensor "Proximity Switch"
     module: raspberrypi
     pin: 18  # This device is connected to pin 18 of the Raspberry PI GPIO
     on_payload: "ON"
@@ -21,7 +21,7 @@ digital_inputs:
     retain: yes
 
 digital_outputs:
-  - name: relay_001
+  - name: relay_001 # Relay Switch "Garage Door Opener"
     module: raspberrypi
     pin: 5  # This device is connected to pin 2 of the PCF8574 IO expander
     on_payload: "ON"
