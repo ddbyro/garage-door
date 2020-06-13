@@ -1,0 +1,13 @@
+[Unit]
+Description=GPIO MQTT
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 -m pi_mqtt_gpio.server /home/pi/mqtt_config.yaml
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target
