@@ -2,9 +2,9 @@
 
 
 
-**Depenancies:**
+## Depenancies:
 
-- elcipse-mosquitto (mqtt)
+- elcipse-mosquitto (mqtt) server
 
   - https://hub.docker.com/_/eclipse-mosquitto/
 
@@ -13,7 +13,13 @@
   - https://github.com/flyte/pi-mqtt-gpio 
   - pip install pi-mqtt-gpio
 
-**How to:**
+## How To:
+
+MQTT:
+
+
+
+PI-MQTT-GPIO:
 
 1. pip install pi-mqtt-gpio
 2. copy gpio_mqtt.service to "/etc/systemd/system/"
