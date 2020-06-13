@@ -2,6 +2,8 @@
 
 
 
+![(./garage_pi_diagram.bmp](garage_pi_diagram.bmp)
+
 ## Dependancies:
 
 - elcipse-mosquitto (mqtt) server
