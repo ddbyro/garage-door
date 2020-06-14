@@ -28,9 +28,7 @@
 
 **MQTT - Standard:**
 
-1. follow instuctions for your linux distro here
-
-   [here]:  https://mosquitto.org/download/
+1. follow instuctions for your linux distro [here](https://mosquitto.org/download/)
 
 **PI-MQTT-GPIO:**
 
