@@ -28,7 +28,7 @@
 
 **MQTT - Standard:**
 
-1. follow instuctions for your linux distro
+1. follow instuctions for your linux distro here
 
    [here]:  https://mosquitto.org/download/
 
