@@ -6,6 +6,8 @@
 
 ![(./iftmaster_solder.jpg](liftmaster_solder.jpg)
 
+[Example Referenc](https://forums.homeseer.com/forum/lighting-primary-technology-plug-ins/lighting-primary-technology-discussion/mcsmqtt-michael-mcsharry/1302355-mqtt-garage-door-control-for-liftmaster-myq-gd-openers)
+
 ## Dependencies:
 
 - elcipse-mosquitto (mqtt) server
