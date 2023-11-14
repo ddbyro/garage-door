@@ -4,7 +4,7 @@
 
 ![(./garage_pi_diagram.bmp](garage_pi_diagram.bmp)
 
-![(./iftmaster_solder.jpeg](liftmaster_solder.jpeg)
+![(./iftmaster_solder.jpg](liftmaster_solder.jpg)
 
 ## Dependencies:
 
