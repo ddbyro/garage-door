@@ -4,6 +4,8 @@
 
 ![(./garage_pi_diagram.bmp](garage_pi_diagram.bmp)
 
+![(./iftmaster_solder.jpeg](liftmaster_solder.jpeg)
+
 ## Dependencies:
 
 - elcipse-mosquitto (mqtt) server
